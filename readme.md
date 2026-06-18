@@ -30,19 +30,6 @@ This repository contains my JavaScript practice code, exercises, and mini-projec
 - [ ] Fetch API
 - [ ] ES6+ Features
 
-## :rocket: Folder Structure
-
-JAVASCRIPT/
-│
-├── basics/
-├── arrays/
-├── functions/
-├── objects/
-├── dom/
-├── async-js/
-├── mini-projects/
-└── README.md
-
 ## 📂 Folder Structure
 
 ```text
@@ -63,7 +50,7 @@ javascript-practice/
 ├── 07-Mini-Projects
 │
 ├── readme.md
-
+```
 ## :rocket: Badges
 
 ![JavaScript](https://img.shields.io/badge/JavaScript-ES6+-yellow)
